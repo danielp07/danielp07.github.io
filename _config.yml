@@ -9,9 +9,7 @@
 title: 우리 가족
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  환영합니다! 이 사이트는 우리 가족을 위해 제가 만들었어요 ㅋㅋ 지금 더 좋게 만드는 중입니다 <3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
